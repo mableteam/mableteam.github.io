@@ -23,7 +23,7 @@
 }
 
 #layout1-z-layout1 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -90,7 +90,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout1-z-layout2 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -145,7 +145,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-about p{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 }
 
 /* ============================== */
@@ -189,7 +189,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 
 #layout2-extra-section .list-options li{
 	color: rgba(255,255,255,.6);
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 20px;
 }
 
@@ -226,7 +226,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-z-layout1 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -270,7 +270,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-tree-columns .column p{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 }
 
@@ -296,7 +296,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-z-layout1 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -331,7 +331,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-pricing-tables .main-text{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	width: 450px;
 	max-width: 90%;
 	margin-bottom: 70px;
@@ -498,7 +498,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-testimonials .testi-slide p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	font-size: 18px;
   	font-style: italic;
   	margin: 20px auto 0;
@@ -571,7 +571,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-faqs .column p{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 }
 
@@ -601,7 +601,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout2-z-layout2 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -623,7 +623,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout3-z-layout p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -696,7 +696,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 
 #layout3-gallery-slider p{
 	color: rgba(255,255,255,.6);
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	width: 400px;
 	margin: 20px auto 0;
 }
@@ -765,7 +765,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout3-z-layout2 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	padding-right: 60px;
   	margin-top: 30px;
 }
@@ -830,7 +830,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout3-testimonials .client-info .job{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 }
 
 #layout3-testimonials .client-info .job a{
@@ -838,7 +838,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout3-testimonials .testi-container .testi-text{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 20px;
 }
 
@@ -860,7 +860,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout4-gallery .subtitle{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 		
 }
 
@@ -916,14 +916,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 
 #layout4-gallery .gallery-item p{
 	color: rgba(255,255,255,.6);
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 	padding-right: 15px;
 }
 
 #layout4-gallery .gallery-item .link{
 	color: #fff;
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	padding-top: 15px;
 }
 
@@ -960,7 +960,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 #layout4-partners li a{
 	color: #989a9f;
 	font-size: 19px;
-	font-family: Hind, sans-serif;	
+	font-family: Raleway, sans-serif;	
 }
 
 #layout4-partners li a i{
@@ -989,7 +989,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout4-testimonials .subtitle{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 }
 
@@ -1007,7 +1007,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout4-testimonials .testi-container .text{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 20px;
 }
 
@@ -1107,7 +1107,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout5-z-layout1 p {
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	margin-top: 30px;
 }
 
@@ -1231,7 +1231,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout5-testimonials .client-info .job{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 }
 
 #layout5-testimonials .client-info .job a{
@@ -1239,7 +1239,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 }
 
 #layout5-testimonials .testi-container .testi-text{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 20px;
 }
 
@@ -1275,7 +1275,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ee8b36', end
 
 #layout5-z-layout2 p{
 	color: rgba(255, 255, 255, 0.7);
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	display: inline-block;
 	margin-top: 10px;
 	width: 90%;

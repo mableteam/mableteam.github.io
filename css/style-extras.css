@@ -14,7 +14,7 @@
 }
 
 #layout2-extras p{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 20px;
 }
 
@@ -50,7 +50,7 @@
 
 #layout1-small-extras p{
 	color: #9d9ea0;
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 25px;
 }
 
@@ -80,7 +80,7 @@
 }
 
 #layout1-extras .column{
-	text-align: left;
+	text-align: center;
 }
 
 #layout1-extras .column h3{
@@ -91,7 +91,7 @@
 }
 
 #layout1-extras .column p{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 }
 
@@ -186,7 +186,7 @@
 
 #layout4-extras .subtitle{
 	color: #9d9ea0;
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 }
 
@@ -211,7 +211,7 @@
 }
 
 #layout4-extras .column p{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 15px;
 }
 
@@ -231,7 +231,7 @@
 }
 
 #layout5-extras .text{
-	font-family: Hind, sans-serif;
+	font-family: Raleway, sans-serif;
 	margin-top: 30px;
 }
 
@@ -248,7 +248,7 @@
 	padding: 10px;
 }
 #layout5-extras .extra-item p{
-  	font-family: Hind, sans-serif;
+  	font-family: Raleway, sans-serif;
   	font-size: 17px;
 }
 #layout5-extras .extra-item p i{

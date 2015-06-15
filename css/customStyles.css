@@ -1,3 +1,7 @@
 .logo img {
     width:300px;
 }
+
+* {
+    font-family: Raleway, sans-serif;
+}
