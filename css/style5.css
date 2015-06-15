@@ -1,0 +1,338 @@
+/******************************************************************************************
+/*  1-General styles */
+/******************************************************************************************/
+body {
+	background-color: #fff;
+	color: #9d9ea0;
+	font-family: Lato, sans-serif;
+	background-color: #fff;
+	font-size: 16px;
+	line-height: 25px;
+}
+
+.img-responsive {
+	max-width:100%!important;
+}
+
+ul,li {
+	list-style:none;
+}
+
+a:hover {
+	text-decoration:none!important;
+}
+
+a:focus,a:active {
+	outline:none;
+}
+
+iframe,embed,object {
+	max-width:100%;
+}
+
+video {
+	max-width:100%;
+	height:auto;
+}
+
+
+
+/* ============================== */
+/*		     Responsivity     	  */
+/* ============================== */
+/* Large Devices, Wide Screens */
+@media only screen and (max-width: 1200px) {
+	
+	#layout5-main-section h1, #layout5-cta-section h2{
+		font-size: 34px;	
+	}
+	
+	#layout5-z-layout1 h2, #layout5-features h2, #layout5-extras h2, #layout5-z-layout2 h2, #layout5-testimonials h2{
+		font-size: 30px;
+	}
+	
+	#layout5-features .feature-item .text-container{
+		width: 70%;
+	}
+	
+	#layout5-special-section{
+		padding: 100px 0;
+	}
+	#layout5-special-section h2{
+		font-size: 34px;
+	}
+	
+	#layout5-cta-section{
+		padding: 100px 0;
+	}
+}
+/* Medium Devices, Desktops */
+@media only screen and (max-width: 996px) {
+	
+	/* navigation collapse breakpoint */
+	.navbar-header {
+    	float: none;
+	}
+	.navbar-left,.navbar-right {
+    	float: none !important;
+	}
+	.navbar-toggle {
+    	display: block;
+	}
+	.navbar-collapse {
+    	border-top: 1px solid transparent;
+		box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1);
+	}
+	.navbar-fixed-top {
+    	top: 0;
+		border-width: 0 0 1px;
+	}
+	.navbar-collapse.collapse {
+    	display: none!important;
+	}
+	.navbar-nav {
+    	float: none!important;
+		margin-top: 7.5px;
+	}
+	.navbar-nav > li {
+    	float: none;
+	}
+	.navbar-nav > li > a {
+    	padding-top: 10px;
+		padding-bottom: 10px;
+	}
+	.collapse.in {
+    	display: block !important;
+	}
+	/*  end  */
+	
+	
+	.main-navigation-header .main-navigation{
+		text-align: center;
+	}
+	.main-navigation-header .main-navigation .cta-btn{
+		margin-left: 0;
+		display: inline-block;
+	}
+	
+	.socials{display: none;}
+	
+	#layout5-main-section h1, #layout5-cta-section h2, #layout5-special-section h2{
+		font-size: 32px;
+		line-height: 45px;
+	}
+	#layout5-main-section h1{
+		margin-top: 0;	
+	}
+	#layout5-main-section .button-wrapper .left-btn{
+		width: 200px;
+		margin-right: 10px;
+	}
+	#layout5-main-section .button-wrapper .left-btn i{
+		padding: 0 15px;
+	}
+	
+	#layout5-partners .brand{
+		padding: 20px 0;
+	}
+	
+	
+	#layout5-z-layout1 h2, #layout5-features h2, #layout5-extras h2, #layout5-z-layout2 h2, #layout5-testimonials h2{
+		font-size: 28px;
+		line-height: 34px;
+	}
+	
+	
+	#layout5-features .feature-item{
+		padding: 35px 0;
+	}
+	#layout5-features .feature-wrapper{
+		text-align: center;
+	}
+	#layout5-features .feature-item .feature-icon{
+		float: none !important;
+		display: inline-block;
+		margin: 0 0 40px;
+	}
+	#layout5-features .feature-item .text-container{
+		width: 100%;
+		float: none !important;
+		text-align: center;
+	}
+	
+	#layout5-special-section{
+		padding: 100px 0;
+	}
+	
+	
+	#layout5-extras h2{
+		margin-top: 0;
+	}
+	#layout5-extras hr{
+		margin: 20px 0;
+	}
+	
+	
+	#layout5-testimonials .testi-container{
+		padding: 30px 0;
+		text-align: center;
+	}
+	#layout5-testimonials .client-info img{
+		float: none !important;
+		display: inline-block;
+		margin-bottom: 40px;
+	}
+	#layout5-testimonials .client-info .info{
+		margin: 0;
+		float: none !important;
+		width: 100%;
+	}
+	
+	
+	#layout5-cta-section{
+		padding: 100px 0;
+	}
+	
+	
+}
+/* Small Devices, Tablets */
+@media only screen and (max-width: 768px) {
+	
+	#layout5-main-section{
+		text-align: center;
+	}
+	#layout5-main-section .main-text{
+		padding: 0 30px;
+	}
+	#layout5-main-section .button-wrapper{
+		margin-bottom: 60px;
+	}
+	#layout5-main-section img{
+		display: inline-block;
+	}
+	
+	#layout5-main-section h1, #layout5-cta-section h2, #layout5-special-section h2{
+		font-size: 30px;
+		line-height: 40px;
+	}
+	
+	
+	
+	#layout5-z-layout1 h2, #layout5-features h2, #layout5-extras h2, #layout5-z-layout2 h2, #layout5-testimonials h2{
+		font-size: 26px;
+		line-height: 34px;
+	}
+	
+	#layout5-z-layout1{
+		text-align: center;
+	}
+	#layout5-z-layout1 p{
+		padding: 0 30px;
+	}
+	#layout5-z-layout1 .text-wrapper{
+		margin-top: 40px;
+	}
+	#layout5-z-layout1 .button{
+		display: inline-block;
+	}
+	
+	#layout5-features{
+		padding: 60px 0 40px;
+	}
+	#layout5-features .feature-item{
+		padding: 25px 0;
+	}
+	
+	
+	#layout5-special-section{
+		padding: 80px 0;
+	}
+	
+	
+	#layout5-extras{
+		text-align: center;
+	}
+	#layout5-extras .text{
+		padding: 0 30px;
+	}
+	#layout5-extras img{
+		display: inline-block;
+		float: none !important;
+		margin-top: 40px;
+	}
+	
+	#layout5-z-layout2{
+		padding: 60px 0;
+		text-align: center;
+	}
+	#layout5-z-layout2 .text-wrapper{
+		margin-top: 50px;
+	}
+	
+	
+	#layout5-testimonials .testi-container p{
+		padding: 0 30px;
+	}
+	
+	#layout5-footer{
+		text-align: center;
+	}
+	#layout5-footer ul.pull-right {
+	    float: none !important;
+	    margin-top: 10px;
+	    padding-left: 0 !important;
+	}
+}
+
+@media only screen and (max-width: 510px) {
+	
+	
+	#layout5-main-section h1, #layout5-cta-section h2, #layout5-special-section h2{
+		font-size: 28px;
+		line-height: 40px;
+	}
+	#layout5-z-layout1 h2, #layout5-features h2, #layout5-extras h2, #layout5-z-layout2 h2, #layout5-testimonials h2{
+		font-size: 24px;
+		line-height: 34px;
+	}
+	
+	#layout5-cta-section .subscribe-form input{
+		width: 70%;
+	}
+	#layout5-cta-section .subscribe-form button{
+		width: 30%;
+	}
+	
+	
+}
+
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width: 480px) {
+	
+	#layout5-main-section .button-wrapper, #layout5-cta-section .button-wrapper{
+		width: 70%;
+	}
+	#layout5-main-section .button-wrapper .left-btn, #layout5-cta-section .button-wrapper .left-btn{
+		width: 100%;
+	}
+	#layout5-main-section .button-wrapper .right-btn, #layout5-cta-section .button-wrapper .right-btn{
+		width: 100%;
+		margin-top: 30px;
+	}
+	
+	#layout5-main-section .main-text, #layout5-z-layout1 p, #layout5-z-layout1 p, #layout5-extras .text, #layout5-testimonials .testi-container p{
+		padding: 0;
+	}
+	
+}
+@media only screen and (max-width: 430px) {
+	
+	
+	
+}
+/* Custom, iPhone Retina */
+
+
+
+

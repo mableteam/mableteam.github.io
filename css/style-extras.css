@@ -1,0 +1,259 @@
+/* ============================== */
+/*		    extras section  	  */
+/* ============================== */
+#layout2-extras{
+	background-color: #f8fafc;
+	padding-top: 60px;
+}
+
+#layout2-extras h3{
+	color: #182034;
+	font-size: 22px;
+	font-weight: 400;
+	margin-top: 50px;
+}
+
+#layout2-extras p{
+	font-family: Hind, sans-serif;
+	margin-top: 20px;
+}
+
+#layout2-extras .second{
+	padding-top: 20px;
+}
+
+#layout2-extras .img-container{
+	margin-bottom: -120px;
+}
+
+
+/* ============================== */
+/*	  small layout1-extras section  	  */
+/* ============================== */
+
+#layout1-small-extras{
+	background-color: #ffff;
+  	padding: 85px 0;
+}
+
+#layout1-small-extras .second-row{
+	margin-top: 80px;
+}
+
+#layout1-small-extras h2{
+	color: #172034;
+	font-family: Raleway, sans-serif;
+	font-size: 26px;
+	font-weight: 400;
+	margin-top: 0;
+}
+
+#layout1-small-extras p{
+	color: #9d9ea0;
+	font-family: Hind, sans-serif;
+	margin-top: 25px;
+}
+
+
+/* ============================== */
+/*		    layout1-extras section  	  */
+/* ============================== */
+
+#layout1-extras{
+	background-color: #fff;
+	padding: 65px 0;
+	text-align: center;
+}
+
+#layout1-extras h2{
+	color: #172034;
+	font-family: Raleway, sans-serif;
+	font-size: 32px;
+	font-weight: 400;
+}
+
+#layout1-extras .main-text{
+	color: #c5c7cb;
+	font-size: 20px;
+	font-style: italic;
+	margin: 20px 0 50px;
+}
+
+#layout1-extras .column{
+	text-align: left;
+}
+
+#layout1-extras .column h3{
+	color: #182034;
+	font-size: 22px;
+	font-weight: 400;
+	margin-top: 40px;
+}
+
+#layout1-extras .column p{
+	font-family: Hind, sans-serif;
+	margin-top: 15px;
+}
+
+
+/* ============================== */
+/*		    extras section  	  */
+/* ============================== */
+#layout3-extras{
+	background-color: #fff;
+}
+
+#layout3-extras .feature-item{
+	padding: 30px 0 20px;
+	cursor: pointer;	
+}
+
+#layout3-extras .feature-wrapper{
+	padding-right: 20px;
+}
+
+#layout3-extras .feature-item .feature-icon{
+	margin-right: 15px;
+}
+
+#layout3-extras .feature-item .feature-icon i:after{
+	color: #080808;
+	font-family: "Flaticon";
+	font-size: 46px;
+	line-height: 1;
+	transition: all .5s;
+}
+
+#layout3-extras .feature-item .feature-icon i:before{
+	color: #080808;
+	font-family: "Flaticon";
+	font-size: 46px;
+	line-height: 1;
+	transition: all .5s;
+}
+
+
+#layout3-extras .feature-item h3{
+	color: #000;
+	font-size: 18px;
+	font-weight: 400;
+	margin-top: 0;
+	transition: all .5s;
+}
+
+#layout3-extras .feature-item p{
+	color: rgba(157,158,160,.39);
+	transition: all .5s;
+}
+
+#layout3-extras .feature-item{
+	transition: all .5s;
+}
+
+#layout3-extras .feature-item:hover{
+	background-color: #22be73;
+}
+
+#layout3-extras .feature-item:hover h3{
+	color: #fff;
+}
+
+#layout3-extras .feature-item:hover p{
+	color: rgba(255,255,255,.39);
+}
+
+#layout3-extras .feature-item:hover .feature-icon i:after , #layout3-extras .feature-item:hover .feature-icon i:before{
+	color: #fff;
+}
+
+/* ============================== */
+/*		    extras section  	  */
+/* ============================== */
+
+#layout4-extras{
+	background-color: #fff;
+	padding: 70px 0;
+	text-align: center;
+}
+
+#layout4-extras h2{
+	color: #172034;
+	font-family: Raleway, sans-serif;
+	font-size: 29px;
+	font-weight: 400;
+	margin-top: 0;
+}
+
+#layout4-extras .subtitle{
+	color: #9d9ea0;
+	font-family: Hind, sans-serif;
+	margin-top: 15px;
+}
+
+#layout4-extras hr{
+	background-color: #e8873a;
+	display: inline-block;
+	width: 60px;
+	height: 2px;
+	margin-top: 10px;
+}
+
+#layout4-extras .column{
+	text-align: left;
+	margin-top: 30px;
+}
+
+#layout4-extras .column h3{
+	color: #182034;
+	font-size: 22px;
+	font-weight: 400;
+	margin-top: 40px;
+}
+
+#layout4-extras .column p{
+	font-family: Hind, sans-serif;
+	margin-top: 15px;
+}
+
+/* ============================== */
+/*		    features section  	  */
+/* ============================== */
+#layout5-extras{
+  	padding: 70px 0;
+}
+
+#layout5-extras h2{
+  	color: #172034;
+  	font-size: 32px;
+  	font-family: Raleway, sans-serif;
+  	font-weight: 400;
+  	margin-top: 30px;
+}
+
+#layout5-extras .text{
+	font-family: Hind, sans-serif;
+	margin-top: 30px;
+}
+
+#layout5-extras hr{
+	background-color: #1ba2cd;
+	display: inline-block;
+	width: 55px;
+	height: 10px;
+	margin: 20px 0 50px;
+	border-radius: 5px;
+}
+
+#layout5-extras .extra-item{
+	padding: 10px;
+}
+#layout5-extras .extra-item p{
+  	font-family: Hind, sans-serif;
+  	font-size: 17px;
+}
+#layout5-extras .extra-item p i{
+  	color: #31aed2;
+  	font-size: 18px;
+  	padding-right: 10px;
+}
+
