@@ -420,6 +420,7 @@
 	background-color: #fff;
 	padding-top: 10px;
 	z-index: 9991 !important;
+	padding-bottom: 50px !important;
 }
 
 #layout5-header .main-navigation-header .main-navigation {
