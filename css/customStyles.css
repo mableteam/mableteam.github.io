@@ -9,3 +9,7 @@
 .conditionList {
     padding-left:0
 }
+
+.conditionList li{
+    margin-bottom:10px;
+}
