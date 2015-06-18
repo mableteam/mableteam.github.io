@@ -384,6 +384,7 @@
 	padding-bottom:5px!important;
 	-webkit-transition:all .5s;
 	transition:all .5s;
+	display: block;
 }
 
 #layout5-header .navbar {
@@ -409,8 +410,9 @@
 #layout5-header {
 	background: #fff;
 	width: 100%;
-	min-height: 127px;
+	min-height: 77px;
 	left: 0;
+	display: block;
 	top: 0;
 	z-index: 9990;
 	box-shadow: 0 12px 5px rgba(0, 0, 0, 0.10);
@@ -420,7 +422,9 @@
 	background-color: #fff;
 	padding-top: 10px;
 	z-index: 9991 !important;
-	padding-bottom: 50px !important;
+	padding: 0px !important;
+	display: block;
+	height: 107px;
 }
 
 #layout5-header .main-navigation-header .main-navigation {
